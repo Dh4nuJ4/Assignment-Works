@@ -38,8 +38,8 @@ The second program calculates the number of ways to reach the bottom-right cell 
 Enter the number of rows (N) and columns (M): 3 3
 Enter the grid values:
 0 0 0
-0 1 0
+0 1 1
 0 0 0
-The number of ways to reach (3,3) from (1,1) is 4
+The number of ways to reach (3,3) from (1,1) is 3
 ```
-In this example, there are 4 ways to reach cell (3,3) from cell (1,1) in the given grid.
+In this example, there are 3 ways to reach cell (3,3) from cell (1,1) in the given grid.
